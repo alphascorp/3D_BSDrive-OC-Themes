@@ -6,7 +6,7 @@
 
 ---
 
-## :warning: First Use ➤ Change `config.plist` in `EFI/OC`
+## :warning: First Use ➤ Change :page_facing_up: `config.plist` in :open_file_folder: `EFI/OC`
 
 ### Set PickerVariant (3D_BSDrive_Hero theme for example)
 
