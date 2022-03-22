@@ -30,7 +30,7 @@ Like this:
     …
     
     <key>PickerVariant</key>
-    <string>Alphascorp\3D_BSDrive__Hero</string>
+    <string>Alphascorp\3D_BSDrive_Hero</string>
     
     …
           
