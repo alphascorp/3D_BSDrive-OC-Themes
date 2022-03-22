@@ -30,13 +30,12 @@ Like this:
     …
     
     <key>PickerVariant</key>
-    <string>Alphascorp\3DRounded_Hero</string>
+    <string>Alphascorp\3D_BSDrive__Hero</string>
     
     …
           
   </dict>
 ```
-<img width="400" alt="config.plist partial Screenshot" src="https://github.com/alphascorp/3D_BSDrive-OC-Themes/blob/main/Screenshots/Screenshot_config.plist.jpg">
 
 ## Replace the unziped `Resources` folder in `EFI/OC`
 
