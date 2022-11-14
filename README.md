@@ -59,6 +59,12 @@
   - 3D_BSDrive_Unleashed :point_right: ([Download](https://github.com/alphascorp/3D_BSDrive-OC-Themes/raw/main/Themes/3D_BSDrive_Unleashed.zip))
 <p align="center"><img width="800" alt="3D_BSDrive_Unleashed Screenshot" src="https://github.com/alphascorp/3D_BSDrive-OC-Themes/raw/main/Screenshots/3D_BSDrive_Unleashed_BootView.jpg"></p>
 
+  - 3D_BSDrive_VenturaLight :point_right: ([Download](https://github.com/alphascorp/3D_BSDrive-OC-Themes/raw/main/Themes/3D_BSDrive_VenturaLight.zip))
+<p align="center"><img width="800" alt="3D_BSDrive_VenturaLight" src="https://github.com/alphascorp/3D_BSDrive-OC-Themes/raw/main/Screenshots/3D_BSDrive_VenturaLight_BootView.jpg"></p>
+
+  - 3D_BSDrive_VenturaDark :point_right: ([Download](https://github.com/alphascorp/3D_BSDrive-OC-Themes/raw/main/Themes/3D_BSDrive_VenturaDark.zip))
+<p align="center"><img width="800" alt="3D_BSDrive_VenturaDark Screenshot" src="https://github.com/alphascorp/3D_BSDrive-OC-Themes/raw/main/Screenshots/3D_BSDrive_VenturaDark_BootView.jpg"></p>
+
   - 3D_BSDrive_BigSurLight :point_right: ([Download](https://github.com/alphascorp/3D_BSDrive-OC-Themes/raw/main/Themes/3D_BSDrive_BigSurLight.zip))
 <p align="center"><img width="800" alt="3D_BSDrive_BigSurLight" src="https://github.com/alphascorp/3D_BSDrive-OC-Themes/raw/main/Screenshots/3D_BSDrive_BigSurLight_BootView.jpg"></p>
    
