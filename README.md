@@ -8,9 +8,9 @@
 
 ## :warning: First Use ➤ Change `config.plist` in `EFI/OC`
 
-### Set PickerVariant (3D_BSDrive_Hero theme for example)
+### Set PickerVariant (3D_BSDrive_TahoeLight theme for example)
 
-- Misc —> Boot —> PickerVariant: Alphascorp\3D_BSDrive_Hero
+- Misc —> Boot —> PickerVariant: Alphascorp\3D_BSDrive_TahoeLight
 
 ### Set PickerAttributes
 
@@ -34,7 +34,7 @@
     …
     
     <key>PickerVariant</key>
-    <string>Alphascorp\3D_BSDrive_Hero</string>
+    <string>Alphascorp\3D_BSDrive_TahoeLight</string>
     
     …
           
@@ -47,11 +47,17 @@
 ## 3D_BSDrive themes view
 
 
+  - 3D_BSDrive_TahoeLight :point_right: ([Download](https://github.com/alphascorp/3D_BSDrive-OC-Themes/raw/main/Themes/3D_BSDrive_TahoeLight.zip))
+<p align="center"><img width="800" alt="3D_BSDrive_TahoeLight Screenshot" src="https://github.com/alphascorp/3D_BSDrive-OC-Themes/raw/main/Screenshots/3D_BSDrive_TahoeLight_BootView.jpg"></p>
+   
+  - 3D_BSDrive_TahoeDark :point_right: ([Download](https://github.com/alphascorp/3D_BSDrive-OC-Themes/raw/main/Themes/3D_BSDrive_TahoeDark.zip))
+<p align="center"><img width="800" alt="3D_BSDrive_TahoeDark Screenshot" src="https://github.com/alphascorp/3D_BSDrive-OC-Themes/raw/main/Screenshots/3D_BSDrive_TahoeDark_BootView.jpg"></p>
+
   - 3D_BSDrive_SequoiaLight :point_right: ([Download](https://github.com/alphascorp/3D_BSDrive-OC-Themes/raw/main/Themes/3D_BSDrive_SequoiaLight.zip))
-<p align="center"><img width="800" alt="3D_BSDrive_Hero Screenshot" src="https://github.com/alphascorp/3D_BSDrive-OC-Themes/raw/main/Screenshots/3D_BSDrive_SequoiaLight_BootView.jpg"></p>
+<p align="center"><img width="800" alt="3D_BSDrive_SequoiaLight Screenshot" src="https://github.com/alphascorp/3D_BSDrive-OC-Themes/raw/main/Screenshots/3D_BSDrive_SequoiaLight_BootView.jpg"></p>
    
   - 3D_BSDrive_SequoiaDark :point_right: ([Download](https://github.com/alphascorp/3D_BSDrive-OC-Themes/raw/main/Themes/3D_BSDrive_SequoiaDark.zip))
-<p align="center"><img width="800" alt="3D_BSDrive_Hero Screenshot" src="https://github.com/alphascorp/3D_BSDrive-OC-Themes/raw/main/Screenshots/3D_BSDrive_SequoiaDark_BootView.jpg"></p>
+<p align="center"><img width="800" alt="3D_BSDrive_SequoiaDark Screenshot" src="https://github.com/alphascorp/3D_BSDrive-OC-Themes/raw/main/Screenshots/3D_BSDrive_SequoiaDark_BootView.jpg"></p>
    
   - 3D_BSDrive_Hero :point_right: ([Download](https://github.com/alphascorp/3D_BSDrive-OC-Themes/raw/main/Themes/3D_BSDrive_Hero.zip))
 <p align="center"><img width="800" alt="3D_BSDrive_Hero Screenshot" src="https://github.com/alphascorp/3D_BSDrive-OC-Themes/raw/main/Screenshots/3D_BSDrive_Hero_BootView.jpg"></p>
