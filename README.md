@@ -101,8 +101,8 @@
 
 ## Credits:
 
-Thanks [chriss1111](https://github.com/chris1111/)
+Thanks to [chriss1111](https://github.com/chris1111/)
 for [OpenCanopy-Generator](https://github.com/chris1111/OpenCanopy-Generator)
 
-Thanks [Apple](https://www.apple.com/os/macos/)
+Thanks to [Apple](https://www.apple.com/os/macos/)
 for macOS wallpapers
